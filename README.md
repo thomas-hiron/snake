@@ -1,7 +1,7 @@
-Casse-brique
+Snake
 ============
 
-Casse-brique HTML5
+Snake HTML
 
-5 niveaux - 3 vies
 Déplacement aux flèches
+Accélération de la vitesse au fûr et à mesure
