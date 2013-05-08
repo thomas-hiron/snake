@@ -1,7 +1,7 @@
 Snake
 ============
 
-Snake HTML
+Snake HTML5
 
 Déplacement aux flèches
 
