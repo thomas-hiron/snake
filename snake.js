@@ -215,7 +215,7 @@ function perdu()
 	start = false;
 	
 	// Ajax
-	insert_high_score();
+	// insert_high_score();
 }
 
 function insert_high_score()
