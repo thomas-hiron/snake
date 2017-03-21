@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+title: "Snake"
+description: "Developed with canvas"
+show_downloads: "true"
